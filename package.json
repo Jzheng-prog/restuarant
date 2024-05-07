@@ -1,7 +1,7 @@
 {
   "name": "restuarant",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a static website I created to show a concept design of a resturant web page. This is the first website I designed and coded. So far, you can only navigate from page to page. HTML and CSS mainly.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -14,5 +14,14 @@
   "dependencies": {
     "ejs": "^3.1.9",
     "express": "^4.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jzheng-prog/restuarant.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Jzheng-prog/restuarant/issues"
+  },
+  "homepage": "https://github.com/Jzheng-prog/restuarant#readme"
 }
